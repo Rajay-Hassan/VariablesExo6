@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesExo6", "VariablesExo6.csproj", "{D90DCE86-7DDE-4E6E-B020-7F88791964F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90DCE86-7DDE-4E6E-B020-7F88791964F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90DCE86-7DDE-4E6E-B020-7F88791964F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90DCE86-7DDE-4E6E-B020-7F88791964F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90DCE86-7DDE-4E6E-B020-7F88791964F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4019E4AD-7D70-432E-B580-F62F58E1E232}
+	EndGlobalSection
+EndGlobal
